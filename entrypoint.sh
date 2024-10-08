@@ -1,5 +1,3 @@
-#!bin/sh
-
 echo "====================="
 
 git config --global user.name "${GITHUB_ACTOR}"
